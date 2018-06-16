@@ -20,6 +20,9 @@ https://plus.google.com/ 搜索shadowsocks或ss，很多白嫖机场<br />
 http://yzkj-sc.tk<br />
 https://www.vpn168.tk/post/4.html<br />
 https://shadowsocksr.cat/<br />
+https://ss.freess.org/  
+https://freessr.win/  
+http://aoxuaudaadaoeu.herokuapp.com/
 
 #### 免费v2ray
 https://v2ray.cat<br />
